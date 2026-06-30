@@ -1,7 +1,7 @@
 # Hey, I'm Lorik 👋
 
 I'm a Python & TypeScript developer passionate about automation and AI.
-I build tools that solve real problems — from autonomous AI agents to webhook systems.
+I build tools that solve real problems, from autonomous AI agents to webhook systems.
 
 ## 🚀 Projects
 
